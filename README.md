@@ -243,11 +243,7 @@ Current responsibilities include:
 - Performance alert handling.
 - Langfuse traceability for important operations.
 
-API documentation:
 
-```text
-https://media.aphelionxcore.com/docs
-```
 
 The development brief defines the Media Buyer around Meta Ads and Google Ads management, including campaign structure, targeting, budget allocation and KPI monitoring. fileciteturn0file0L730-L754
 
