@@ -1,0 +1,28 @@
+# Sécurité (NE JAMAIS POUSSER CES FICHIERS)
+.env
+*.env
+.env.*
+ngrok.exe
+test_phase_c.py
+ngrok.exe
+apiv1.py
+credentials.json
+requirements.txt
+ab_testing.py
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# Fichiers générés par Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Outils de développement
+.pytest_cache/
+.coverage
+htmlcov/
+.ruff_cache/
+
